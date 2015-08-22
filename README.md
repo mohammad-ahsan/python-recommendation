@@ -60,8 +60,4 @@ Go into source file::
     $ python -m unittest discover
 
 ```
-$ python
->>> import recommendation
->>> recommendation.__version__
->>> from recommendation.recommendation import Recommendation
-```
+
