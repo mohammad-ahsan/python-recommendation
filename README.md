@@ -1,5 +1,5 @@
 Recommendation
-==========
+===============
 
 Recommendation is a Python command line application to provide recommendation of similar items based on provided user data and list of sample items.
 
@@ -51,13 +51,10 @@ $ python
 Run Tests
 =========
 
-Test needs "data" directory to run. Make sure its in place. 
-
-Go into source file::
+Test needs "data" directory to run. Make sure its in same place where tests resides. 
 
 	
 	$ cd Recommendation\recommendation 
     $ python -m unittest discover
 
-```
 
