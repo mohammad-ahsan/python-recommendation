@@ -47,3 +47,21 @@ $ python
 >>> recommendation.__version__
 >>> from recommendation.recommendation import Recommendation
 ```
+
+Run Tests
+=========
+
+Test needs "data" directory to run. Make sure its in place. 
+
+Go into source file::
+
+	
+	$ cd Recommendation\recommendation 
+    $ python -m unittest discover
+
+```
+$ python
+>>> import recommendation
+>>> recommendation.__version__
+>>> from recommendation.recommendation import Recommendation
+```
